@@ -2,7 +2,7 @@
 	padding:0;
 	margin:0;
 	font-family: 'Quicksand', sans-serif;
-	color: #ffff;
+	color: #ffa500;
 }
 header {
 	height:70px;
@@ -17,6 +17,7 @@ header ul li {
 }
 header ul li a {
 	transition: .3s;
+	color: #ffff;
 }
 header ul li a:hover {
 	color: #F84744;
