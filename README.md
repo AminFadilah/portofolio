@@ -1,2 +1,2 @@
-# profil
-profil pribadi
+# Learn to build portfolio
+learn html, css, js
